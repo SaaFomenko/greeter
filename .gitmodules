@@ -1,0 +1,3 @@
+[submodule "lib/greeter_lib"]
+	path = lib/greeter_lib
+	url = git@github.com:SaaFomenko/greeter_lib.git
